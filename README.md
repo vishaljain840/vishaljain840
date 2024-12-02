@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vishal jain</h1>
-<h3 align="center">🚀 Passionate Software Developer with a Master’s in Software Engineering</h3>
+<h1 align="center">Hi 👋, I'm Vishal Jain</h1>
+<h3 align="center">🚀 Passionate Software Developer with a Master’s in Applied Computing</h3>
 
 - Summary
   -  Master of Software Engineering with hands-on experience in software development specializing in front-end technologies such as React, JavaScript, and Redux. Proficient in designing and architecting robust software solutions, optimizing applications for scalability, and ensuring high-quality code standards. Known for developing a custom email marketing editor using Draft.js and React.js, resulting in a 40% efficiency increase for digital marketers. Excels in Agile practices and collaborative problem-solving.
@@ -24,23 +24,20 @@
   - Operating Systems: Linux/ Unix, Windows • Scripting: Bash/ Shell scripting • Cloud Platforms: Google Cloud Platform, AWS, Azure
 
 - 🏢Professional Experience
-  - Information System Intern Jan 2024 – Aug 2024
-  - Bombardier Recreational Products, Sherbrooke, Quebec, Canada
+  - Information System Intern @ Bombardier Recreational Products | Jan 2024 – Aug 2024 | Sherbrooke, Quebec, Canada
     - Developed and enhanced RF screens for the Extended Warehouse Management (EWM) module using ReactJS and Redux, focusing on automating steps in the screens and improving the user interface to streamline warehouse operations, reducing manual effort and increasing efficiency
     - Integrated DHL's new API with BRP’s internal systems by creating and optimizing front-end components using ReactJS, replacing outdated interfaces, and improving data flow, accuracy, and user interaction
     - Contributed to the APAC Freight Recovery Project by designing and implementing a responsive front-end using ReactJS to automate the recovery of freight charges from dealers, improving the user experience and ensuring a more intuitive process for cost recovery
     - Aggregated data from multiple tables in Snowflake and transformed it into an interactive dashboard in PowerBI, providing insightful visualizations for better decision-making
     - Created and maintained comprehensive documentation for all front-end components, ensuring clarity and ease of future maintenance and enhancements for the ReactJS-based interfaces and integrations
-  - Software Engineer Aug 2022 - Dec 2022
-  - TurnoutNow, Mohali, Punjab, India
+  - Software Engineer @ TurnoutNow | Aug 2022 - Dec 2022 | Mohali, Punjab, India
     - Utilized JavaScript, HTML, CSS, ReactJS, Algolia, and GraphQL technologies to construct the complete website for Amazon Re-invent’22 with seamless integration and advanced search capabilities
     - Collaborated with cross-functional teams to design and prototype user interfaces for a high-impact Amazon Project, aimed at enhancing customer engagement and user experience
     - Designed and implemented the peerConnect tool, a novel feature that significantly elevated platform functionality and user experience by facilitating seamless communication and collaboration among users
     - Enhanced customer database queries using GraphQL, resulting in a 40% reduction in response times and significant system performance improvement
     - Designed intuitive icons and crafted captivating animation effects, leading to a notable 25% upsurge in user engagement metrics
     - Actively participated in Agile development methodologies, engaging in daily stand-ups, sprint planning, and collaborative problem-solving sessions, fostering effective teamwork and efficient project delivery
-  - Senior Analyst Aug 2020 - Aug 2022
-  - Capgemini India Pvt. Ltd, Pune, Maharashtra, India
+  - Senior Analyst Aug 2020 - Aug 2022 | Capgemini India Pvt. Ltd, Pune, Maharashtra, India
     - Developed and maintained the Purchase Order Management system for a large British utilities provider, using Angular to integrate CE/Portal with seamless authentication services, JWT tokens, and secure data handling for Purchase Orders, AHC approvals, and TSP feedback. Implemented secure cancellation processes to ensure data integrity
     - Managed Return Merchandise Authorization (RMA) processes, building Angular components for RMA creation, TSP approval workflows, and real-time shipping and receipt tracking. Implemented bulk RMA order creation functionality using services and reusable components, ensuring a responsive, user-friendly experience
     - Played a key role in developing and optimizing FinOps Infrastructure from scratch using Angular for frontend interfaces, including ticket creation dashboards, package update management UIs, cloud-hosted environment setup, and integration with DevOps pipelines (ADO) for smooth deployment across PreProduction and Production environments
@@ -48,12 +45,10 @@
     - Demonstrated strong problem-solving abilities by troubleshooting and optimizing REST API integrations with Angular's HttpClient, utilizing JSON object models for efficient data exchange. Ensured secure API communication with token-based authentication and role-based access control**
 
 - 🎓Education
-  - Master of Applied Computing Jan 2023 – Aug 2024
-  - University of Windsor, Windsor, Ontario
+  - Master of Applied Computing @ University of Windsor | Jan 2023 – Aug 2024 | Windsor, Ontario
     - • 8 months internship completes in August 2024, available to work full time from August 2024
     - • Current GPA: 83.33/100
-  - Bachelor of Technology, Information Technology Aug 2016 - May 2020
-  - Manipal University Jaipur, Jaipur, Rajasthan, India
+  - Bachelor of Technology, Information Technology @ Manipal University Jaipur | Aug 2016 - May 2020 | Jaipur, Rajasthan, India
     - Graduated with Cumulative 8.53/10.00 GPA
 
 - 📫 How to reach me **jain87@uwindsor.ca/vishaljain840@gmail.com**
